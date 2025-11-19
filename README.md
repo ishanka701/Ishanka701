@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -325,7 +325,7 @@
     </div>
 </body>
 </html>
-```
+
 
 > **💡 "Turning data into insights, one algorithm at a time!"** 📊🤖
 
