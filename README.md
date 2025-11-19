@@ -99,7 +99,7 @@ console.log(me.getMotivation());
 - 🌱 Learning **TensorFlow & Deep Learning**
 - 👯 Looking to collaborate on **Data Science & AI Projects**
 - 💬 Ask me about **Python, Data Analytics, Machine Learning**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **ishankachathurangamark@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code and data into decisions!** ☕→💻
 
 ---
