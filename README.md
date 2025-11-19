@@ -16,36 +16,315 @@
 
 ## 🌟 About Me
 
-```javascript
-class DataScientist {
-    constructor() {
-        this.name = "Ishanka Chathuranga Botheju";
-        this.role = "Data Science Student";
-        this.location = "Sri Lanka 🇱🇰";
-        this.education = "BSc (Hons) Data Science";
-        this.university = "Your University Name";
-        this.interests = [
-            "Machine Learning",
-            "Data Analytics", 
-            "Web Development",
-            "AI & Deep Learning"
-        ];
-        this.currentlyLearning = ["Python", "R", "TensorFlow", "React"];
-        this.lookingToCollaborate = true;
-    }
-    
-    getMotivation() {
-        return "Turning data into insights, one algorithm at a time! 📊🤖";
-    }
-    
-    sayHi() {
-        console.log("Thanks for dropping by! Let's build something amazing together. 🚀");
-    }
-}
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Scientist Profile</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-const me = new DataScientist();
-me.sayHi();
-console.log(me.getMotivation());
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 1200px;
+            width: 100%;
+            padding: 40px;
+            animation: fadeIn 0.8s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .profile-circle {
+            width: 150px;
+            height: 150px;
+            margin: 0 auto 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 60px;
+            color: white;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.05);
+            }
+        }
+
+        h1 {
+            color: #333;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .role {
+            color: #667eea;
+            font-size: 1.3em;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .location {
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
+
+        .card-title {
+            font-size: 1.3em;
+            color: #667eea;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .card-icon {
+            font-size: 1.5em;
+        }
+
+        .skill-tag {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            margin: 5px;
+            font-size: 0.9em;
+            transition: transform 0.2s ease;
+        }
+
+        .skill-tag:hover {
+            transform: scale(1.1);
+        }
+
+        .learning-item {
+            background: #f8f9fa;
+            padding: 10px 15px;
+            border-radius: 10px;
+            margin: 8px 0;
+            border-left: 4px solid #667eea;
+            transition: background 0.3s ease;
+        }
+
+        .learning-item:hover {
+            background: #e9ecef;
+        }
+
+        .motivation-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            font-size: 1.3em;
+            font-weight: 600;
+            margin: 30px 0;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+            animation: glow 2s ease-in-out infinite;
+        }
+
+        @keyframes glow {
+            0%, 100% {
+                box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+            }
+            50% {
+                box-shadow: 0 10px 40px rgba(102, 126, 234, 0.6);
+            }
+        }
+
+        .console-output {
+            background: #1e1e1e;
+            color: #00ff00;
+            padding: 20px;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            font-size: 1em;
+            margin-top: 20px;
+            box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .console-line {
+            margin: 10px 0;
+            opacity: 0;
+            animation: typeIn 0.5s forwards;
+        }
+
+        .console-line:nth-child(1) {
+            animation-delay: 0.5s;
+        }
+
+        .console-line:nth-child(2) {
+            animation-delay: 1s;
+        }
+
+        @keyframes typeIn {
+            to {
+                opacity: 1;
+            }
+        }
+
+        .collab-badge {
+            display: inline-block;
+            background: #28a745;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: 600;
+            margin-top: 20px;
+            animation: bounce 1s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-5px);
+            }
+        }
+
+        .info-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 12px 0;
+            color: #555;
+        }
+
+        .info-icon {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="profile-circle">👨‍💻</div>
+            <h1>Ishanka Chathuranga Botheju</h1>
+            <div class="role">Data Science Student</div>
+            <div class="location">📍 Sri Lanka 🇱🇰</div>
+        </div>
+
+        <div class="grid">
+            <div class="card">
+                <div class="card-title">
+                    <span class="card-icon">🎓</span>
+                    Education
+                </div>
+                <div class="info-item">
+                    <span class="info-icon">📚</span>
+                    <div>
+                        <strong>BSc (Hons) Data Science</strong><br>
+                        <small>Your University Name</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">
+                    <span class="card-icon">💡</span>
+                    Interests
+                </div>
+                <div>
+                    <span class="skill-tag">Machine Learning</span>
+                    <span class="skill-tag">Data Analytics</span>
+                    <span class="skill-tag">Web Development</span>
+                    <span class="skill-tag">AI & Deep Learning</span>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">
+                    <span class="card-icon">📖</span>
+                    Currently Learning
+                </div>
+                <div class="learning-item">🐍 Python</div>
+                <div class="learning-item">📊 R</div>
+                <div class="learning-item">🤖 TensorFlow</div>
+                <div class="learning-item">⚛️ React</div>
+            </div>
+        </div>
+
+        <div class="motivation-box">
+            "Turning data into insights, one algorithm at a time! 📊🤖"
+        </div>
+
+        <div class="card">
+            <div class="card-title">
+                <span class="card-icon">💼</span>
+                Collaboration Status
+            </div>
+            <div style="text-align: center;">
+                <span class="collab-badge">✅ Open to Collaborate!</span>
+            </div>
+        </div>
+
+        <div class="console-output">
+            <div class="console-line">> me.sayHi()</div>
+            <div class="console-line">Thanks for dropping by! Let's build something amazing together. 🚀</div>
+        </div>
+    </div>
+</body>
+</html>
 ```
 
 > **💡 "Turning data into insights, one algorithm at a time!"** 📊🤖
