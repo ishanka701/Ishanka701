@@ -1,176 +1,149 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Malindu Kanishka</h1>
-<h3 align="center">An undergraduate BSc (Hons) in Electronics and Telecommunication Engineer from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=malindu200111&label=Profile%20views&color=0e75b6&style=flat" alt="malindu200111" /> </p>
-<table  align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-
-- 🌱 I’m currently learning **Frontend (HTML, CSS, JS)**
-
-- 🧑‍🎓 I’m **an Undergraduate at SLTC**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **malindukanishka73@gmail.com**
-
-- ⚡ Fun fact **call me as Babara**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://github.com/Malindu200111/Malindu200111/blob/main/cartoon-man-wearing-glasses.jpg">
-
-  
-  </td>
-</tr>
-</table>
-
- 
-
-📊 GitHub Stats
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Malindu200111&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Malindu200111&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Malindu200111&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malindu200111&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
+# 👨‍💻 Ishanka Chathuanga
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malindu200111&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+### `Data Science Enthusiast | AI Explorer | Insight Hunter`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Machine+Learning+%7C+Deep+Learning+%7C+Analytics;Building+Tomorrow's+AI+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=ishanka701&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+
 </div>
 
 ---
 
-🏆 GitHub Trophies
+## 🌟 About Me
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Ishanka Chathuanga"
+        self.role = "Data Science Undergraduate"
+        self.location = "Sri Lanka 🇱🇰"
+        self.passions = ["AI", "Machine Learning", "Data Analytics"]
+        self.fun_fact = "I turn messy datasets into meaningful insights 😉"
+    
+    def current_focus(self):
+        return [
+            "🤖 Machine Learning & Deep Learning",
+            "📊 Big Data Analytics",
+            "🐍 Python Ecosystem (Pandas, NumPy, Scikit-Learn)",
+            "🔧 Data Engineering Concepts",
+            "📈 Advanced Visualization Techniques"
+        ]
+    
+    def ask_me_about(self):
+        return {
+            "languages": ["Python", "SQL"],
+            "domains": ["Data Analysis", "ML Models", "Visualization"],
+            "tools": ["Matplotlib", "Seaborn", "Pandas", "NumPy"]
+        }
+```
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malindu200111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### **Data Science & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Web & Tools**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Design Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
 </div>
 
 ---
-## 🌐 Connect With Me
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://linkedin.com/in/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://fb.com/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:2000malshan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://vimukthi1239.github.io/vimukthi/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishanka701&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanka701&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanka701&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishanka701&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)
+
 </div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🏆 GitHub Trophies
 
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-</p>
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ishanka701&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
 
 ---
 
-
-📈 Contribution Graph
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Malindu200111&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repos"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ishanka-chathuranga2001)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14rcnmykum9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishanka_o?igsh=mwu3nno5mgcxdmu2bw==)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ishankachathur)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishankachathurangamark@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
-  
-  💡 "Engineering the future, one project at a time."
-  
-  <p>⭐️ From <a href="https://github.com/Malindu200111">Malindu200111</a> with ❤️</p>
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/ishanka701/ishanka701/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+**"Data is the new oil, but insights are the refined gold."** 🚀
+
+*Made with ❤️ and lots of ☕*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 </div>
-
----
-
-🔭 Current Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📡 Smart Water Level Indicator</h3>
-      <p align="center">
-        <a href="https://github.com/Malindu200111" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="project link"/>
-        </a>
-      </p>
-      <p>An embedded system project using PIC16F877A, HC-SR04 ultrasonic sensor, buzzer, LEDs, relay, and motor — including Proteus simulation, MPLAB XC8 coding, and PCB in KiCad.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧮 Ideal Body Weight Calculator</h3>
-      <p align="center">
-        <a href="https://github.com/Malindu200111" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View%20Project-green?style=for-the-badge&logo=github" alt="project link"/>
-        </a>
-      </p>
-      <p>A Java Swing application with MySQL database, Devine formula-based weight calculation, health category analysis, and personalized tips.</p>
-    </td>
-  </tr>
-</table>
-
----
