@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Vimukthi Malshan Nawarathna
+# 👋 Hi there, I'm Ishanka Chathuranga Botheju.
 
 ### 🎓 Final Year Data Science Student | From Sri Lanka
 
@@ -23,7 +23,7 @@
   <pre lang="javascript">
 class DataScientist {
     constructor() {
-        this.name = "Vimukthi Malshan Nawarathna";
+        this.name = "Ishanka Chathuranga Botheju";
         this.role = "Data Science Student";
         this.location = "Sri Lanka 🇱🇰";
         this.education = "BSc (Hons) Data Science";
